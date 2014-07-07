@@ -20,8 +20,5 @@ class chupacabra{
      */
     private $dbconn;
 
-    protected function openConnection(){
-
-    }
 
 }
